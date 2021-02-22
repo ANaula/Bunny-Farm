@@ -1,8 +1,10 @@
-# Purpose
+# Bunny Farm Simulation
+
+## Purpose
 
 This c++ program was made to simulate a bunny farm over an 11 year timespan. It displays information for each bunny in the farm, notifies you when a bunny is born or has died, and shows the pen represented by a grid and where the bunnies are in that grid. The information is recorded in a text file and outputted.
 
-# How it works
+## How it works
 
 The program revolves around the bunny class and a linked list that holds all the bunny objects in the simulation. The bunny class holds information such as their gender, fur color, name, age, mortality status, grid mark icon, grid lcation, and if they are a mutant. A for loop is used to represent the progressing years and each year the linked list is traversed to either add, remove, or modify bunny information. These actions are done by four functions: **cull_check()**, **bunny_ai()**, **logic()**, and **draw()**.
 
