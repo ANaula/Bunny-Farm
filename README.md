@@ -20,7 +20,7 @@ The user will have a choice to manually cull the population by pressing k. The p
 
 ![Alt Text](https://media.giphy.com/media/jKUcuGes2M9HDhjESq/giphy.gif)
 
-As mentioned earlier, the program records all of this in a text file. In the repository, the text file "Bunny_Farm_Example.txt" is an example of what this program outputs.
+As mentioned earlier, the program records all of this in a text file. In the repository, the text file "Bunny_Farm.txt" is an example of what this program outputs.
 
 ## To Build
 
