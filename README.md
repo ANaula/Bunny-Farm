@@ -22,3 +22,6 @@ The user will have a choice to manually cull the population by pressing k. The p
 
 As mentioned earlier, the program records all of this in a text file. In the repository, the text file "Bunny_Farm_Example.txt" is an example of what this program outputs.
 
+## To Build
+
+A CMakeLists.txt file is provided in the repo for construction using CMake.
