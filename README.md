@@ -24,4 +24,4 @@ As mentioned earlier, the program records all of this in a text file. In the rep
 
 ## To Build
 
-A CMakeLists.txt file is provided in the repo for construction using CMake.
+A CMakeLists.txt file is provided in the repository for construction using CMake.
