@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This c++ program was made to simulate a bunny farm over an 11 year timespan. It displays information for each bunny in the farm, notifies you when a bunny is born or has died, and shows the pen represented by a grid and where the bunnies are in that grid. The information is recorded in a text file and outputted.
+This c++ program was made to simulate a bunny farm over an 11 year timespan. It displays information for each bunny in the farm, notifies you when a bunny is born or has died, and shows the pen represented by a grid and where the bunnies are in that grid. The information is recorded in a text file and displayed in a console window.
 
 ## How it works
 
